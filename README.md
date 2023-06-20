@@ -26,3 +26,4 @@
 | BOJ 10989 - 수 정렬하기3          | 정렬     | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%B0%B1%EC%A4%80-10989-javaScript)                                         |
 | 세 수 중 최솟값                   | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%84%B8-%EC%88%98-%EC%A4%91-%EC%B5%9C%EC%86%9F%EA%B0%92-javaScript)        |
 | 삼각형 판별하기                   | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%82%BC%EA%B0%81%ED%98%95-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0-javaScript) |
+| 연필 개수                         | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%97%B0%ED%95%84-%EA%B0%9C%EC%88%98-javaScript)                            |
