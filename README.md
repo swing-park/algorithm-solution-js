@@ -35,3 +35,4 @@
 | A를 #으로                         | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-A%EB%A5%BC-%EC%9C%BC%EB%A1%9C-javaScript)                                    |
 | 문자 찾기                         | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%AC%B8%EC%9E%90-%EC%B0%BE%EA%B8%B0-javaScript)                            |
 | 대문자 찾기                       | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%8C%80%EB%AC%B8%EC%9E%90-%EC%B0%BE%EA%B8%B0-javaScript)                   |
+| 대문자로 통일                     | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C-%ED%86%B5%EC%9D%BC-javaScript)          |
