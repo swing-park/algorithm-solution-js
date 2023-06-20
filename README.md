@@ -27,3 +27,4 @@
 | 세 수 중 최솟값                   | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%84%B8-%EC%88%98-%EC%A4%91-%EC%B5%9C%EC%86%9F%EA%B0%92-javaScript)        |
 | 삼각형 판별하기                   | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%82%BC%EA%B0%81%ED%98%95-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0-javaScript) |
 | 연필 개수                         | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%97%B0%ED%95%84-%EA%B0%9C%EC%88%98-javaScript)                            |
+| 1부터 n까지의 합                  | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-1%EB%B6%80%ED%84%B0-n%EA%B9%8C%EC%A7%80%EC%9D%98-%ED%95%A9-javaScript)       |
