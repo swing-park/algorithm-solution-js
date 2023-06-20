@@ -32,3 +32,4 @@
 | 홀수                              | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%ED%99%80%EC%88%98-javaScript)                                               |
 | 10부제                            | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-10%EB%B6%80%EC%A0%9C-javaScript)                                             |
 | 일곱 난쟁이                       | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%9D%BC%EA%B3%B1-%EB%82%9C%EC%9F%81%EC%9D%B4-javaScript)                   |
+| A를 #으로                         | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-A%EB%A5%BC-%EC%9C%BC%EB%A1%9C-javaScript)                                    |
