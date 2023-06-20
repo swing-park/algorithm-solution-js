@@ -31,3 +31,4 @@
 | 최솟값 구하기                     | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%B5%9C%EC%86%9F%EA%B0%92-%EA%B5%AC%ED%95%98%EA%B8%B0-javaScript)          |
 | 홀수                              | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%ED%99%80%EC%88%98-javaScript)                                               |
 | 10부제                            | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-10%EB%B6%80%EC%A0%9C-javaScript)                                             |
+| 일곱 난쟁이                       | 수학     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%9D%BC%EA%B3%B1-%EB%82%9C%EC%9F%81%EC%9D%B4-javaScript)                   |
