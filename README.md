@@ -37,3 +37,4 @@
 | 대문자 찾기                       | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%8C%80%EB%AC%B8%EC%9E%90-%EC%B0%BE%EA%B8%B0-javaScript)                   |
 | 대문자로 통일                     | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C-%ED%86%B5%EC%9D%BC-javaScript)          |
 | 대소문자 변환                     | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90-%EB%B3%80%ED%99%98-javaScript)          |
+| 가장 긴 문자열                    | 반복문     | [풀이](https://velog.io/@ongsim123/Algorithm-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-javaScript)         |
