@@ -40,3 +40,4 @@
 | 가장 긴 문자열                    | 반복문   | [풀이](https://velog.io/@ongsim123/Algorithm-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-javaScript)          |
 | 가운데 문자 출력                  | Math함수 | [풀이](https://velog.io/@ongsim123/Algorithm-%EA%B0%80%EC%9A%B4%EB%8D%B0-%EB%AC%B8%EC%9E%90-%EC%B6%9C%EB%A0%A5-javaScript) |
 | 중복문자제거                      | 문자열   | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%A4%91%EB%B3%B5%EB%AC%B8%EC%9E%90%EC%A0%9C%EA%B1%B0-javaScript)            |
+| 중복단어제거                      | 문자열   | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%A4%91%EB%B3%B5%EB%8B%A8%EC%96%B4%EC%A0%9C%EA%B1%B0-javaScript)            |
