@@ -45,3 +45,4 @@
 | 보이는 학생                       | 1차원탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%B3%B4%EC%9D%B4%EB%8A%94-%ED%95%99%EC%83%9D-javaScript)                    |
 | 가위바위보                        | 1차원탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4-javaScript)                     |
 | 점수계산                          | 1차원탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%A0%90%EC%88%98%EA%B3%84%EC%82%B0-javaScript)                              |
+| 등수구하기                        | 1차원탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%93%B1%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0-javaScript)                     |
