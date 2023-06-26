@@ -49,3 +49,4 @@
 | 격자판최대합                      | 2차원탐색  | [풀이](https://velog.io/@ongsim123/Algorithm-%EA%B2%A9%EC%9E%90%ED%8C%90%EC%B5%9C%EB%8C%80%ED%95%A9-javaScript)            |
 | 봉우리                            | 2차원탐색  | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%B4%89%EC%9A%B0%EB%A6%AC-javaScript)                                       |
 | 회문 문자열                       | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%ED%9A%8C%EB%AC%B8-%EB%AC%B8%EC%9E%90%EC%97%B4-javaScript)                    |
+| 유효한 팰린드롬                   | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%9C%A0%ED%9A%A8%ED%95%9C-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC-javaScript)  |
