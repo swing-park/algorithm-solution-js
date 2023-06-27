@@ -50,3 +50,4 @@
 | 봉우리                            | 2차원탐색  | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%B4%89%EC%9A%B0%EB%A6%AC-javaScript)                                       |
 | 회문 문자열                       | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%ED%9A%8C%EB%AC%B8-%EB%AC%B8%EC%9E%90%EC%97%B4-javaScript)                    |
 | 유효한 팰린드롬                   | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%9C%A0%ED%9A%A8%ED%95%9C-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC-javaScript)  |
+| 숫자만 추출                       | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%88%AB%EC%9E%90%EB%A7%8C-%EC%B6%94%EC%B6%9C-javaScript)                    |
