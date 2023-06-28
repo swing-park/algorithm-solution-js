@@ -52,3 +52,4 @@
 | 유효한 팰린드롬                   | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%9C%A0%ED%9A%A8%ED%95%9C-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC-javaScript)           |
 | 숫자만 추출                       | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%88%AB%EC%9E%90%EB%A7%8C-%EC%B6%94%EC%B6%9C-javaScript)                             |
 | 가장 짧은 문자거리                | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EA%B0%80%EC%9E%A5-%EC%A7%A7%EC%9D%80-%EB%AC%B8%EC%9E%90%EA%B1%B0%EB%A6%AC-javaScript) |
+| 문자열 압축                       | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95-javaScript)                             |
