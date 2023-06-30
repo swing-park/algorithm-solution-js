@@ -54,3 +54,4 @@
 | 가장 짧은 문자거리                | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EA%B0%80%EC%9E%A5-%EC%A7%A7%EC%9D%80-%EB%AC%B8%EC%9E%90%EA%B1%B0%EB%A6%AC-javaScript) |
 | 문자열 압축                       | 문자열탐색 | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95-javaScript)                             |
 | 자릿수의 합                       | 완전탐색   | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%9E%90%EB%A6%BF%EC%88%98%EC%9D%98-%ED%95%A9-javaScript)                             |
+| 뒤집은 소수                       | 완전탐색   | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%92%A4%EC%A7%91%EC%9D%80-%EC%86%8C%EC%88%98-javaScript)                             |
