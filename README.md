@@ -56,3 +56,4 @@
 | 자릿수의 합                       | 완전탐색   | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%9E%90%EB%A6%BF%EC%88%98%EC%9D%98-%ED%95%A9-javaScript)                             |
 | 뒤집은 소수                       | 완전탐색   | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%92%A4%EC%A7%91%EC%9D%80-%EC%86%8C%EC%88%98-javaScript)                             |
 | 멘토링                            | 완전탐색   | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%A9%98%ED%86%A0%EB%A7%81-javaScript)                                                |
+| 졸업 선물                         | 완전탐색   | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%A1%B8%EC%97%85-%EC%84%A0%EB%AC%BC-javaScript)                                      |
