@@ -59,3 +59,4 @@
 | 졸업 선물                         | 완전탐색     | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%A1%B8%EC%97%85-%EC%84%A0%EB%AC%BC-javaScript)                                      |
 | K번째 큰 수                       | 완전탐색     | [풀이](https://velog.io/@ongsim123/Algorithm-K%EB%B2%88%EC%A7%B8-%ED%81%B0-%EC%88%98-javaScript)                                    |
 | 두 배열 합치기                    | Two Pointers | [풀이](https://velog.io/@ongsim123/Algorithm-%EB%91%90-%EB%B0%B0%EC%97%B4-%ED%95%A9%EC%B9%98%EA%B8%B0-javaScript)                   |
+| 공통원소 구하기                   | Two Pointers | [풀이](https://velog.io/@ongsim123/Algorithm-%EA%B3%B5%ED%86%B5%EC%9B%90%EC%86%8C-%EA%B5%AC%ED%95%98%EA%B8%B0-javaScript)           |
