@@ -63,3 +63,4 @@
 | 연속 부분수열1                    | Two Pointers   | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%97%B0%EC%86%8D-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B41-javaScript)                   |
 | 연속 부분수열2                    | Two Pointers   | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%97%B0%EC%86%8D-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B42-javaScript)                   |
 | 최대 매출                         | Sliding Window | [풀이](https://velog.io/@ongsim123/Algorithm-%EC%B5%9C%EB%8C%80-%EB%A7%A4%EC%B6%9C-javaScript)                                      |
+| 학급 회장(해쉬)                   | Hash Map       | [풀이](https://velog.io/@ongsim123/Algorithm-%ED%95%99%EA%B8%89-%ED%9A%8C%EC%9E%A5%ED%95%B4%EC%89%AC-javaScript)                    |
